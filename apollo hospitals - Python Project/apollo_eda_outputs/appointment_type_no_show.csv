@@ -1,0 +1,4 @@
+appointment_type,total_valid_appointments,no_shows,completed,cancelled,no_show_rate_pct
+Home Visit,9742,2557,6436,749,26.247177171012115
+Video Consult,15349,3232,10901,1216,21.05674636784155
+In-Clinic,47561,5795,37938,3828,12.18435272597296
